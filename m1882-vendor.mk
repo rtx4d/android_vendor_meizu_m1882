@@ -1284,7 +1284,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcsconfig@1.0 \
     vendor.qti.imsrtpservice@1.0 \
     vendor.qti.latency@2.0 \
-    libplatformconfig \
     libsdm-disp-vndapis \
     libtime_genoff \
     libloc_api_v02 \
